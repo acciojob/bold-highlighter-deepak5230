@@ -20,7 +20,7 @@ link.addEventListener('mouseover', highlight);
 link.addEventListener('mouseout', return_normal);
 
 
-}
+
 
 
 
